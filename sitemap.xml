@@ -3,15 +3,19 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://jp-guimaraes.github.io/slides_componentes/home/intro/</loc>
+    <loc>https://jp-guimaraes.github.io/slides_componentes/home/00_intro/</loc>
   </url>
   
   <url>
-    <loc>https://jp-guimaraes.github.io/slides_componentes/home/2_desktops/</loc>
+    <loc>https://jp-guimaraes.github.io/slides_componentes/home/01_componentes-organizacao/</loc>
   </url>
   
   <url>
-    <loc>https://jp-guimaraes.github.io/slides_componentes/home/3_laptops/</loc>
+    <loc>https://jp-guimaraes.github.io/slides_componentes/home/02_desktops/</loc>
+  </url>
+  
+  <url>
+    <loc>https://jp-guimaraes.github.io/slides_componentes/home/03_laptops/</loc>
   </url>
   
   <url>

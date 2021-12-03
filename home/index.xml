@@ -12,21 +12,40 @@
     
     <item>
       <title></title>
-      <link>https://jp-guimaraes.github.io/slides_componentes/home/intro/</link>
+      <link>https://jp-guimaraes.github.io/slides_componentes/home/00_intro/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://jp-guimaraes.github.io/slides_componentes/home/intro/</guid>
-      <description> Objetivos Conhecer e reconhecer os componentes internos de computadores do tipo Desktop e Laptops
- Sumário  Desktops Laptops   </description>
+      <guid>https://jp-guimaraes.github.io/slides_componentes/home/00_intro/</guid>
+      <description> Objetivos Conhecer e reconhecer os componentes internos de computadores modernos do tipo Desktop e Laptop
+ Sumário  Componentes internos e organização de computadores Desktops Laptops   </description>
     </item>
     
     <item>
       <title></title>
-      <link>https://jp-guimaraes.github.io/slides_componentes/home/2_desktops/</link>
+      <link>https://jp-guimaraes.github.io/slides_componentes/home/01_componentes-organizacao/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://jp-guimaraes.github.io/slides_componentes/home/2_desktops/</guid>
-      <description> Componentes internos de um desktop?  Componentes Alimentação: Fonte de energia
+      <guid>https://jp-guimaraes.github.io/slides_componentes/home/01_componentes-organizacao/</guid>
+      <description>Componentes internos de um computador?  Qual computador? Qual arquitetura? Qual organização?
+  Qual arquitetura/organização?  Foco inicial: Laptops/desktops modernos (x86/64)
+ Relembrando Componente principais (teóricos):
+ Dispositivos de entrada/saída Armazenamento (memória(s)) Processamento (Processador(es))   Quiz Quais os dispositivos físicos necessários para implementação desses conceitos?
+bola
+ Processador Processador(es)?
+ CPU -&amp;gt; Processador
+GPU -&amp;gt; Processamento dedicado (vídeo)
+ Memória Memória(s)?
+ Memórias  Dispositivos de entrada e saída  teclado mouse touchpad caixas de som Monitores Impressoras Tela sensível ao toque   Interconexões Barramentos</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://jp-guimaraes.github.io/slides_componentes/home/02_desktops/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://jp-guimaraes.github.io/slides_componentes/home/02_desktops/</guid>
+      <description> Desktop Quais os componentes internos de um Desktop?
+ Componentes Alimentação: Fonte de energia
 Memória primária: memória RAM
 Memória secundária: HD,SSD
 Processador
@@ -41,11 +60,12 @@ Leds indicadores ou decorativos
     
     <item>
       <title></title>
-      <link>https://jp-guimaraes.github.io/slides_componentes/home/3_laptops/</link>
+      <link>https://jp-guimaraes.github.io/slides_componentes/home/03_laptops/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://jp-guimaraes.github.io/slides_componentes/home/3_laptops/</guid>
-      <description> Componentes internos de um laptop?  Componentes Alimentação: (fonte externa) -&amp;gt; Bateria
+      <guid>https://jp-guimaraes.github.io/slides_componentes/home/03_laptops/</guid>
+      <description> Laptops Quais os componentes internos de um laptop? No que eles diferem de um Desktop?
+ Componentes Alimentação: (fonte externa) -&amp;gt; Bateria
 Memória primária: memória RAM (soldada ou removível)
 Memória secundária: HD,SSD
 Processador
